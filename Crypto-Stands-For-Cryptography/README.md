@@ -15,5 +15,6 @@ This was one of the easiest ones, since the problem provides the base64 string, 
 
 I found `b64decode()` function very usefull. In addition, I tried with other base64 strings and it worked. Simply, by running the script, the flag can be printed.
 
+![Image](https://res.cloudinary.com/dxbnpu2rx/image/upload/v1603844046/Screenshot_from_2020-10-27_13-12-42_ymmqhf.png)
 
 The flag is, **MetaCTF{base64_enc0ding_is_n0t_the_same_as_encrypti0n!}** so, we earned 100 points.
