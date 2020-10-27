@@ -1,4 +1,4 @@
-# Target 10.0.50.160
+#  Open Thermal Exhaust Port
 ### Problem description
 Our TCP connect Nmap scan found some open ports it seems. We may only have a pcap of the traffic, but I'm sure that won't be a problem! Can you tell us which ones they are?
 
